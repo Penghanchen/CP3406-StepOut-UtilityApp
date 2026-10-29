@@ -1,0 +1,20 @@
+# Gradle and Android Studio output
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local packages, logs and signing material
+*.apk
+*.aab
+*.aar
+*.log
+*.hprof
+*.jks
+*.keystore
+.DS_Store
